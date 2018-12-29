@@ -4,3 +4,4 @@ This was my first model I did for USA. They gave me historical time series from 
 
 A good image can summerize more than 1000 words...
 
+![Screenshot](BSTS workflow.png)
